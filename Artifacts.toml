@@ -1,0 +1,160 @@
+[[Clay]]
+arch = "aarch64"
+git-tree-sha1 = "86ff44a736c1b2a33cf84de50ef182dd5d699142"
+os = "macos"
+
+    [[Clay.download]]
+    sha256 = "43d92a248ae6a67745efa9f2a22e42aaa106ee2e6a12a63acc9d4f10860edb29"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-apple-darwin.tar.gz"
+[[Clay]]
+arch = "aarch64"
+git-tree-sha1 = "7470566480a26d81d1d4b193291a0f9cf13b4248"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "312f5a5e5936db628afb549426bfb30a0171fa3b3303af6d9d5279b66cd03555"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-linux-gnu.tar.gz"
+[[Clay]]
+arch = "aarch64"
+git-tree-sha1 = "5523c5cde4d4d08e37c3153a3d08ec900ffb0c31"
+libc = "musl"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "5cb89014bcf8526d9c4c0c23422ecb9ed9e89cf08c1fe394606676689abcdab9"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-linux-musl.tar.gz"
+[[Clay]]
+arch = "aarch64"
+git-tree-sha1 = "c53b7b08d1443dd3ca3284a74b4f03c44e2e66c3"
+os = "freebsd"
+
+    [[Clay.download]]
+    sha256 = "0c73381887e5c24a7bc396283689bd24352a261656cd62c1fd2f0eb6032eca1d"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-unknown-freebsd.tar.gz"
+[[Clay]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "77dcac73cb9fa9a52a12943b1de99d809d8820a0"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "6234674c68b43bbdc578a0fe67c2a90002c923225d61d47de1e5c06b9e1ba74f"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
+[[Clay]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "97ee3c73252bc0f5f7c1b0a855eb76e0e2085c6a"
+libc = "musl"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "a2980f9f07ccddf1e17e6543e15e26c4422f768662ab108271cb8f050c4fafdf"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv6l-linux-musleabihf.tar.gz"
+[[Clay]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0d1016b7e9813a6e1ad4605025078d9d886aa567"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "6a49efcbcf1f82af8742dc5c32a9f3376f375db99a90552b18997d378ab771c0"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
+[[Clay]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bbbeef7236a11b5734453deddf5dcfef4e3a358"
+libc = "musl"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "c24d46343035230c47e085cdd8086116708e0f87088fa4e24718c50f247a8b2d"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv7l-linux-musleabihf.tar.gz"
+[[Clay]]
+arch = "i686"
+git-tree-sha1 = "3aaf14ac365d42ef3fa8ff09bc830bcebb483e07"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "94fef291b06dd4d8e89615cb6ad428f5540cb03cac788de9cf4b35dd1fd1427c"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.i686-linux-gnu.tar.gz"
+[[Clay]]
+arch = "i686"
+git-tree-sha1 = "2b993e0842bea7dff0e6725e9efc8120c860cff5"
+libc = "musl"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "c9fe70bc89659f1b9e58c07173ec9caaa7e90c94c6eb0932376bff4b9934afb3"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.i686-linux-musl.tar.gz"
+[[Clay]]
+arch = "i686"
+git-tree-sha1 = "e3607b44e0c5cb55d12008a0c4683283a888051f"
+os = "windows"
+
+    [[Clay.download]]
+    sha256 = "4cf6afdf2f8ade49b56c10940687967af1f62a72725953d9a17edbb5ff7c39d3"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.i686-w64-mingw32.tar.gz"
+[[Clay]]
+arch = "powerpc64le"
+git-tree-sha1 = "63882e0504902ad655b10b6164a30eca98e2d651"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "e3e481f56a5c623f08179013cf49ae859957ad1957b1ca86f9d18e0ae7594c5b"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.powerpc64le-linux-gnu.tar.gz"
+[[Clay]]
+arch = "riscv64"
+git-tree-sha1 = "a38c8e8f8931f841b372f3983b425c112aabbb9c"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "c9980efcd9d9b76831d0ea683675b4211e79dadc3912ed0e91920550063e35bf"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.riscv64-linux-gnu.tar.gz"
+[[Clay]]
+arch = "x86_64"
+git-tree-sha1 = "1303540aecaa119c3d0b894fe67c40dbe0f80172"
+os = "macos"
+
+    [[Clay.download]]
+    sha256 = "e328c7d2474c906a862681ebbdabe32dc282e295fbec83a175bf251c963e03f1"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-apple-darwin.tar.gz"
+[[Clay]]
+arch = "x86_64"
+git-tree-sha1 = "d956f13c857383b37a0b57980087521ff7904efe"
+libc = "glibc"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "9b865027b2afa625bf9c110da90ce3c4f61611b2aa6c6e98d502a35310eb40d8"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-linux-gnu.tar.gz"
+[[Clay]]
+arch = "x86_64"
+git-tree-sha1 = "6ba0ce3e24f9a8b256357fa58add2d69d2ff1f71"
+libc = "musl"
+os = "linux"
+
+    [[Clay.download]]
+    sha256 = "024d094abe660a111f1341a15f3e1711ef523b7917b3f559e513e50464ffe3a5"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-linux-musl.tar.gz"
+[[Clay]]
+arch = "x86_64"
+git-tree-sha1 = "fb4d88f2a7ac722f369c31f6c11a0153d3f66e7e"
+os = "freebsd"
+
+    [[Clay.download]]
+    sha256 = "def3524896a22de1e14af50ce21531403f9b2e51448d00cae309d6a70ef280c1"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-unknown-freebsd.tar.gz"
+[[Clay]]
+arch = "x86_64"
+git-tree-sha1 = "18c870d5e50c2a7be341decb22e4fbfd2a61bfd8"
+os = "windows"
+
+    [[Clay.download]]
+    sha256 = "1ac062374ac4eb49dfdc231f67edecf6a0cf19c8136b9cd2d9c728d74ad13239"
+    url = "https://github.com/JuliaBinaryWrappers/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-w64-mingw32.tar.gz"
